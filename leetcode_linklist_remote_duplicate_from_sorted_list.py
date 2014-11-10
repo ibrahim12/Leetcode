@@ -37,7 +37,7 @@ class Solution:
 
 
 l2 = ListNode(1)
-# l2.next = ListNode(2)
+l2.next = ListNode(1)
 # l2.next.next = ListNode(2)
 # l2.next.next.next = ListNode(3)
 
